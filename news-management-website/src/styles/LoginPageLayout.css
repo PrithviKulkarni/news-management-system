@@ -1,0 +1,61 @@
+.wrapper{
+    background-color: whitesmoke;
+}
+
+.page{
+    height: 85vh;
+}
+
+.login-field{
+    margin-top: 3em;
+    background-color: white;
+    border-radius: 2em;
+    margin-left: 20%;
+    margin-right: 20%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 1em;
+}
+
+.title{
+    padding-top: 0.5em;
+    text-align: center;
+}
+
+.mb-3{
+    text-align: left;
+    text-indent: 2px;
+}
+
+.fields{
+    margin-left: 4em;
+    margin-right: 4em;
+    margin-bottom: 2em;
+}
+
+.sbmt-btn{
+    float: right;
+}
+
+.sbmt-btn:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.register-btn-text{
+    color: white;
+    text-decoration: none;
+}
+
+.register-btn-text:hover{
+    color: white;
+}
+
+.register-btn{
+    background-color: rgb(243, 163, 14);
+    border: 1px solid rgb(243, 163, 14);
+}
+
+.register-btn:hover{
+    background-color: rgb(222, 145, 1);
+    border: 1px solid rgb(222, 145, 1);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}

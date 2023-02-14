@@ -1,0 +1,30 @@
+.full-art{
+    padding-bottom: 3em;
+}
+
+.side-pads{
+    padding-top: 1em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+
+.date{
+    float: right;
+    margin-right: 4vw;
+}
+
+.cover-img{
+    width: 100%;
+}
+
+h1{
+    padding-top: 0.4em;
+    padding-bottom: 1em;
+}
+
+.return{
+    width: 100%;
+    background-color: whitesmoke;
+    padding: 1%;
+    text-decoration: dashed;
+}

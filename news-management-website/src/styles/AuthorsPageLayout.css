@@ -1,0 +1,99 @@
+.page{
+    padding-top: 1em;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+h2{
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-bottom: 1em;
+}
+
+.auth-btn{
+    color: white;
+    font: bold;
+    text-decoration: none;
+}
+
+.auth-btn:hover{
+    color: white;
+}
+
+.new-art{
+    background-color: orange;
+    border: 1px solid orange
+}
+
+.new-art:hover{
+    color: aliceblue;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: rgb(241, 158, 3);
+    border: 1px solid rgb(241, 158, 3);
+}
+
+.edit-btn:hover{
+    color: aliceblue;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.new-auth{
+    background-color: rgb(0, 147, 0);
+    border: 1px solid rgb(0, 147, 0);
+}
+
+.new-auth:hover{
+    color: aliceblue;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: green;
+    border: 1px solid green;
+}
+
+.del{
+    color: rgb(219, 22, 22);
+    text-decoration: underline;
+
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6vh;
+}
+
+.del:hover{
+    color: rgb(173, 7, 7);
+    cursor: pointer;
+}
+
+.view-btn-text{
+    color: white;
+    text-decoration: none;
+}
+
+.view-btn-text:hover{
+    color: white;
+}
+
+.del-btn{
+    background: none;
+    color:rgb(219, 22, 22);
+    font-weight: bold;
+    text-decoration: underline;
+    border: none;
+    justify-content: center;
+}
+
+.del-btn:hover{
+    background: rgb(219, 22, 22);
+    color:white;
+    font-weight: bold;
+    text-decoration: underline;
+    border: none;
+    justify-content: center;
+}

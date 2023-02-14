@@ -1,0 +1,47 @@
+.fdm-logo {
+    max-width: 75%;
+    height: auto;
+    max-height: 50%;
+  }
+  
+  .me-auto {
+    margin: auto;
+  }
+  
+  .nav-dropdown {
+    color: black;
+  }
+  .nav-dropdown:link {
+    text-decoration: none;
+  }
+  
+  .nav-link {
+    padding: 10px;
+    margin: 10px 25px 10px 25px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .nav-link:first-child {
+    margin-left: 60px;
+  }
+  
+  .link:link {
+    text-decoration: none;
+  }
+  
+  .link:visited {
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    text-decoration: none;
+  }
+  
+  .link:active {
+    text-decoration: none;
+  }
+  

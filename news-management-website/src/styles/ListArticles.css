@@ -1,0 +1,10 @@
+.divwhole{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card.card-display{
+    margin-top: 1em;
+    width: 25rem;
+    float: inline-start;
+}
